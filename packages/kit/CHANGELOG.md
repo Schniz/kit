@@ -1,5 +1,13 @@
 # @sveltejs/kit
 
+## 1.0.0-next.321
+
+### Patch Changes
+
+- Tweak error message for non-validating base paths ([#4713](https://github.com/sveltejs/kit/pull/4713))
+
+* throw error on encountering infinite layout loop ([#4730](https://github.com/sveltejs/kit/pull/4730))
+
 ## 1.0.0-next.320
 
 ### Patch Changes
